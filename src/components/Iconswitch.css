@@ -1,0 +1,8 @@
+.iconswitch{
+    text-align: right;
+}
+.icon{
+    cursor: pointer;
+    font-size: 40px;
+    color: #555;
+}
